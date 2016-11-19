@@ -1,5 +1,3 @@
-## Header
-
 * [Link to Footer](#footer)
 
 Bacon ipsum dolor sit amet pork loin short loin frankfurter venison, tenderloin biltong swine chicken pastrami kevin. Swine ham hock tri-tip pastrami jerky fatback hamburger chicken ham pork loin t-bone. Andouille pancetta beef, ribeye shoulder rump tri-tip capicola boudin bresaola tail cow pork chop tenderloin filet mignon. Filet mignon short ribs beef pancetta.
@@ -43,5 +41,3 @@ Ham filet mignon short ribs sirloin ground round drumstick ball tip shankle. Mea
 Venison filet mignon drumstick, leberkas pork chop frankfurter pastrami strip steak beef meatball pork belly rump sirloin jowl. Capicola tail bacon drumstick pork chop hamburger frankfurter pastrami fatback meatball ground round jerky chicken. Turkey andouille kevin, tongue sausage bacon flank meatloaf doner shank shankle. Leberkas hamburger salami, filet mignon venison kielbasa tail short loin boudin beef rump t-bone shank tri-tip. Drumstick ball tip t-bone pig.
 
 ## Footer
-
-* [Link to Header](#header)
